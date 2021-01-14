@@ -1,7 +1,7 @@
 # simulation_modele_segregation_schelling
 Projet personnel sur la simulation du modèle de ségrégation de Thomas Schelling
 <br>
-Projet personnel : Julien Ribeiro : https://www.linkedin.com/in/julien-ribeiro-382242151/
+Julien Ribeiro : https://www.linkedin.com/in/julien-ribeiro-382242151/
 
 ### Thomas Schelling
 
