@@ -48,6 +48,6 @@ Cette configuration d'intégration maximale est un équilibre puisqu'aucun habit
 
 Partons au préalable avec toujours notre distribution parfaitement équilibré. On perturbe ensuite la distribution. Thomas Schelling enlevait 20 habitants et en rajoutait 5 au hasard. Certains habitants mécontents de leur voisinage apparaisent sur notre damier. Le tipping point a été atteint à certains endroits et nous comptons maintenant 14 habitants mécontents de leur position vis à vis de leur voisinage.
 <br><br>
-Avec la théorie de l'économiste américain, nous remarquons ensuite, une ségrégation non voulue puisque les habitants mécontants vont se rapprocher de voisins les ressemblants. Cela va crée un déséquilibre et crée une mise à l'écart de groupes sociaux, résultant de stratégies spatiales concernant les lieux de résidence.
+Avec la théorie de l'économiste américain, nous remarquons ensuite, une ségrégation non voulue puisque les habitants mécontants vont se rapprocher de voisins les ressemblants. Cela va crée un déséquilibre et crée une mise à l'écart.
 <br><br>
 Thomas Schelling s'était servi de pièces de nickel et de cuivre posées sur un échiquier de 13x16 cases pour illustrer son modèle. Aujourd'hui, nous allons pouvoir démontrer sa théorie grâce à python et sa simplicité d'écriture!
